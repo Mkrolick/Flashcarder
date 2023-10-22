@@ -1,0 +1,29 @@
+Term: Rendezvous Point
+Definition: The designated meeting spot for two or more people.
+
+Term: Unfaithful
+Definition: Not adhering to promises, obligations, or allegiances; not faithful; not loyal; untrustworthy.
+
+Term: Online Infidelity
+Definition: Dishonesty on the internet especially between a married couple who unknowingly were having an affair online with each other.
+
+Term: Internet Relationship
+Definition: A relationship between people who have met online, and in many cases, know each other solely via the Internet.
+
+Term: Catfish
+Definition: A person who pretends to be someone else online, typically in a deceptive way to ensnare someone into a relationship.
+
+Term: Identity Theft
+Definition: The fraudulent acquisition and use of a person's private identifying information, usually for financial gain.
+
+Term: Cloak of Secrecy
+Definition: A situation or environment where information is concealed or activities are carried out away from public scrutiny.
+
+Term: Veracity Online and Offline
+Definition: The concept of truthfulness and honesty, and how it is assessed within the online and offline context.
+
+Term: "Well" Technique
+Definition: A technique to detect deception where a direct yes-or-no question is asked and if the response begins with "Well," there is a high probability of dishonesty.  
+
+Term: Direct Yes-or-No Question
+Definition: A type of question that seeks a simple yes or no response. Can be used in the 'Well' technique to test veracity.

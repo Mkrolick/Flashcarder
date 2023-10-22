@@ -1,0 +1,17 @@
+Term: Elicitation
+Definition: A process of garnering information from adversaries while maintaining good rapport with them. It involves few or no questions to prevent defensive reactions and is based on human needs. 
+
+Term: Characteristics of Elicitation
+Definition: The person of interest is not aware they are revealing sensitive information, making the process painless. People will appreciate the attention and may thank the elicitor, providing additional opportunities for information gathering. 
+
+Term: Human Need to Correct
+Definition: A psychological phenomenon where individuals have a strong need to correct others and be correct themselves. This need can be leveraged in the process of elicitation through presumptive statements. 
+
+Term: Presumptive Statements
+Definition: These are facts that can be either correct or incorrect presented during elicitation. People feel the need to confirm if the statement is correct or correct it if it's wrong, revealing additional information in the process. 
+
+Term: Empathic Elicitation
+Definition: This technique combines empathic statements with elicitation. It aids in building rapport and gathering information from individuals that would not usually be obtained through direct questioning. 
+
+Term: Empathic Presumptive 
+Definition: An elicitation technique that uses a combination of empathy and a presumptive statement which can lead to the person of interest revealing more information due to their desire to agree or correct the statement.

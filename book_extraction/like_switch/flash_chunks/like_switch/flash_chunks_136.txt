@@ -1,0 +1,17 @@
+Term: Truth Bias 
+Definition: It creates a primacy filter in which any communication or event is perceived as truthful unless something causes to doubt its truthfulness. This is especially significant in written correspondences on the Internet where verbal and nonverbal cues aren't present. 
+
+Term: Primacy Effect 
+Definition: A cognitive bias that refers to the tendency to believe the first pieces of information we perceive, shaping our perception of reality. It's also related to truth bias. 
+
+Term: Competing Hypotheses 
+Definition: This method is crucial to prevent truth bias and the primacy effect from impacting our judgment of character or truthfulness of someone. It involves creating two contrasting educated guesses or hypotheses based on the same circumstances. 
+
+Term: Laws of Attraction
+Definition: This theory states that attractive individuals tend to receive more attention and preferential treatment. However, in the realm of Internet communication, this concept is less influential unless a photo is included in a profile. Often, individuals rely on contrast or just usually idealize the other individual.
+
+Term: Rapport Building 
+Definition: In an internet setting, this process relies solely on written text. It involves finding common ground and personal information disclosure. This leads to intensified relationships as people on the internet tend to disclose personal information at a faster rate due to the lack of real-time response cues. 
+
+Term: Catphish 
+Definition: Refers to when someone creates a false online identity, often with deceptive intents such as scamming or manipulating others. This term is used in the context of describing the risks of misattribution and over-disclosure in internet communications.

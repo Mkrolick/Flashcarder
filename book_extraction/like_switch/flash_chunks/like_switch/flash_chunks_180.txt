@@ -1,0 +1,23 @@
+Term: Unsafe Distance 
+Definition: This term is used to describe when a trailing vehicle or entity comes too close, violating the boundaries of normal following distance and risking well-being.
+
+Term: Automatic Monitoring
+Definition: An unconscious action of observing and assessing that happens within our brains, whether it is related to driving or verbal and nonverbal communication with others.
+
+Term: Human Baseline 
+Definition: Forms the standard or normal perceptions of the brain. Actions falling within the human baseline are registered as ordinary and non-threatening.
+
+Term: Friend and Foe Signals 
+Definition: Nonverbal cues and behaviors that can indicate friendliness or hostility. They form part of the human baseline and can be used effectively in establishing relationships.
+
+Term: Emotional Intelligence
+Definition: The ability to identify, use, understand, and manage our own emotions in positive ways to handle interpersonal relationships, cope with challenges, and relieve stress.
+
+Term: Making Friends in a Thumb-Talking World
+Definition: A metaphorical expression referring to the phenomenon where socializing and communicating has predominately shifted from face-to-face interaction to digital mediums, such as texting.
+
+Term: Social Skills
+Definition: The skills essential to effectively communicate and interact with others, including understanding and responding to the context and perceived intentions of others. 
+
+Term: Thumb-Talking 
+Definition: Refers to the act of communicating through text-based messages on a digital device.

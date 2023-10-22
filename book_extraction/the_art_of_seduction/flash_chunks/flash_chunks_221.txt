@@ -1,0 +1,17 @@
+Term: Robert Greene
+Definition: An author notable for his work "The 48 Laws of Power", and his degree in classical literature. He resides in Los Angeles.
+
+Term: The Art of Seduction
+Definition: A book by Robert Greene, author of The 48 Laws of Power. Additional details can be found at the website www.seductionbook.com.
+
+Term: Joost Elffers
+Definition: The producer for Viking Studio's popular titles such as "The Secret Language of Birthdays", "The Secret Language of Relationships", and "Play with Your Food". He is based in New York City.
+
+Term: Viking Studio
+Definition: A publishing company known for best-selling books such as "The Secret Language of Birthdays", "The Secret Language of Relationships", and "Play with Your Food", all of which are produced by Joost Elffers.
+
+Term: The 48 Laws of Power
+Definition: A notable work by Los Angeles-based author Robert Greene, who also wrote "The Art of Seduction". 
+
+Term: Penguin Books
+Definition: The publishing house that published "The Art of Seduction", a book authored by Robert Greene.

@@ -1,0 +1,29 @@
+Term: The Art of Seduction
+Definition: A book written by Robert Greene, who specializes in classical literature and is known for his work, The 48 Laws of Power.
+
+Term: Robert Greene
+Definition: The author of The 48 Laws of Power and The Art of Seduction, with a degree in classical literature.
+
+Term: Joost Elffers
+Definition: The producer of Viking Studio's best-selling The Secret Language of Birthdays, The Secret Language of Relationships, and Play with Your Food.
+
+Term: The 48 Laws of Power
+Definition: A famous book penned by Robert Greene, who is also the author of The Art of Seduction.
+
+Term: Viking Studio
+Definition: The publishing house that has produced bestselling books, namely, The Secret Language of Birthdays and The Secret Language of Relationships, both produced by Joost Elffers.
+
+Term: www.seductionbook.com
+Definition: The website for more information about The Art of Seduction, a book by Robert Greene.
+
+Term: The Secret Language of Birthdays
+Definition: One of the best-selling books produced by Joost Elffers and published by Viking Studio.
+
+Term: The Secret Language of Relationships
+Definition: Another best-selling book produced by Joost Elffers and published by Viking Studio.
+
+Term: Play with Your Food
+Definition: A book produced by Joost Elffers, who lives in New York City.
+
+Term: Classical Literature
+Definition: A field of study in which Robert Greene, author of The Art of Seduction, holds a degree.

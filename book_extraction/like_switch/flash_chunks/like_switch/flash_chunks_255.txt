@@ -1,0 +1,29 @@
+Term: Boarding Pass
+Definition: A document provided by an airline during check-in, giving a passenger permission to board the airplane for a particular flight.
+
+Term: Business Class
+Definition: A high-quality section of seating in an airplane that offers more comfort and service than standard economy class.
+
+Term: Connecting Flight
+Definition: A subsequent flight with a different flight number on the same ticket as the previous flight, typically involving a change of aircraft.
+
+Term: Upgrade
+Definition: Moving up to a higher level of service, often in regards to travel accommodations like airplane seats.
+
+Term: Customer Service Representatives
+Definition: Individuals who handle customer inquiries, complaints, billing questions, and service requests in a professional and courteous manner.
+
+Term: Empathic Statement
+Definition: A sentence or phrase that shows understanding, sympathy, and care for another person's feelings or situation.
+
+Term: First Class
+Definition: The highest quality of seating and service available on a commercial flight that offers maximum comfort and numerous perks.
+
+Term: Missed Connecting Flight
+Definition: When a passenger is unable to make a subsequent flight due to the delay or cancellation of the previous flight.
+
+Term: Late Flight
+Definition: A flight that does not take off or arrive at the scheduled time due to several reasons like weather conditions, technical issues, etc.
+
+Term: Gate Agent 
+Definition: An airline employee responsible for managing the boarding process, assisting passengers with their flight reservations, and dealing with any flight related issues.

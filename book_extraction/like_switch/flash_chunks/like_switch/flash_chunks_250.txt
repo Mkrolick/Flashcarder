@@ -1,0 +1,14 @@
+Term: Primacy Effect
+Definition: A psychological principle in which the initial information encountered about a person, subject, or event tends to have a strong influence on our perception and evaluation of them.
+
+Term: Application of Primacy Effect in Interrogation
+Definition: Setting up a certain perspective or 'filter' through which a suspect perceives an interrogator as an effective tactic, prompting a more truthful response due to preformed beliefs about the interrogator's skills.
+
+Term: Primacy Effect Bias
+Definition: The impact of the primacy effect on personal behavior, leading to prejudicial views and interpretations of others' actions based on initial information, which can lead to inaccurate or misleading beliefs about them.
+
+Term: Propagation of Primacy Effect
+Definition: The effect of the primacy effect extending beyond immediate interactions, influencing opinions and acceptance in various settings, such as employee transfers, product evaluations, etc.
+
+Term: Ben Franklin Effect
+Definition: A phenomenon where a person who does a favor for another person tends to feel good about themselves and like the other person more, challenging the common belief that gratitude should stem from the person receiving the favor.

@@ -1,0 +1,14 @@
+Term: Internet Communication Skills
+Definition: Skills required to accurately assess and interpret cues in the absence of face-to-face exchanges when communicating on the Internet.
+
+Term: Truth Bias
+Definition: The phenomenon where individuals tend to believe information provided by others unless evidence to the contrary surfaces. This bias is particularly strong in online communications where non-verbal cues are absent.
+
+Term: Primacy Effect
+Definition: A psychological bias that results from the truth bias, where information that a person writes is evaluated as truthful unless something causes doubts. This effect alters people's perception and can impact the understanding and judgment of written online communications.
+
+Term: Competing Hypotheses
+Definition: Two or more contrasting educated guesses that suppose different outcomes based on the same or similar circumstances. This method is used to counter the truth bias and primacy effect in online communications.
+
+Term: Laws of Attraction
+Definition: The principle that attractive individuals often receive preferential treatment and more attention than less attractive individuals.

@@ -1,0 +1,20 @@
+Term: Primacy Effect 
+Definition: A cognitive bias that results in a subject recalling primary information presented better than information presented later on. In this context, it relates to first impressions about an individual based on prejudicial information provided beforehand, thus influencing how one views the said individual.
+
+Term: Overcoming the Primacy Effect 
+Definition: This happens when an individual, over multiple interactions, disproves the initial prejudiced perception. The individual's subsequent experiences slowly shape a new perspective based on actual behaviors rather than on prejudiced information.
+
+Term: Primacy Effect in Interrogations 
+Definition: A tactic used by investigators during interrogations where they create a certain image or expectation about a person (e.g., an investigator's partner), thus indirectly influencing or manipulating the suspect’s thinking or responses.
+
+Term: Biasing in the Primacy Effect 
+Definition: A process through which the primacy effect could lead to personal prejudices and misconceptions about others, forming inaccurate beliefs about their behavior based on initial information or interaction. 
+
+Term: Primacy Effect in Shaping Friendships 
+Definition: The use of primacy effect as a tool to influence how someone is perceived, especially in the context of friendships or first-time meetings. By communicating a specific message, one can predispose someone to perceive a certain person in a particular way.
+
+Term: Primacy Effect in Policing 
+Definition: The use of the primacy effect, particularly in interrogations, to influence suspects by establishing an expectation or perception about the police officer (e.g., "He's a fair listener. He can tell when someone is lying"), which then influences the suspects' reactions or responses. 
+
+Term: Excusing Unfriendly Behavior due to the Primacy Effect 
+Definition: A situation in which people tend to dismiss or rationalize an individual's unfriendly behaviors if their first impression of that individual is positive or friendly. Despite the repeated display of unfriendly behavior, the initial favorable impression (primacy effect) leads others to give multiple chances for the individual to demonstrate friendliness.

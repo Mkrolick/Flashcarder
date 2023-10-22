@@ -1,0 +1,23 @@
+Term: Special Agent
+Definition: An FBI officer whose position involves special tasks and investigations, like Charles in this context who built a relationship with Seagull to acquire classified information.
+
+Term: Behavioral Analysis Program
+Definition: A program within the FBI that is assigned the task to study the behaviors and psychological patterns of targets for more effective strategies of approach and recruitment.
+
+Term: Friendship Formula
+Definition: A strategic formula for developing relationships and trust with a target. It comprises four basic building blocks: proximity, frequency, duration, and intensity.
+
+Term: Proximity
+Definition: One of the components of the Friendship Formula. It refers to the distance between two individuals over time, crucial in personal relationship development.
+
+Term: Frequency
+Definition: Another component of the Friendship Formula. It denotes the number of contacts an operative has with the target individual over a certain period of time.
+
+Term: Duration
+Definition: It is a part of the Friendship Formula. It is the time an operative spends with another individual over a certain period.
+
+Term: Intensity
+Definition: Another element of the Friendship Formula. It refers to how strongly an operative is able to satisfy another individual's psychological or physical needs through verbal and nonverbal behaviors.
+
+Term: Fight or Flight Response
+Definition: A physiological reaction that occurs when an individual perceives a threat. It was the response Charles sought to avoid causing in Seagull during their initial encounters.

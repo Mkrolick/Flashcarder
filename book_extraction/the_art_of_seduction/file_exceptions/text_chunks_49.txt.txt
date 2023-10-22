@@ -1,0 +1,1 @@
+Error communicating with OpenAI: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))

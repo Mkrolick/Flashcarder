@@ -1,0 +1,17 @@
+Term: Rapport
+Definition: The buildup of good behavior over time
+
+Term: Behaviors Signifying Rapport
+Definition: These are signs that indicate the presence of a strong, positive and harmonious relationship. They include eyebrow flashes, head tilt, frequent smiles, mutual gaze, intimate touching, isopraxism, inward lean, and whispering.
+
+Term: Foe Signals Signifying a Lack of Rapport
+Definition: These are signs that indicate the absence or violation of rapport. They include furrowed eyebrows, eye rolls, cold stares, prolonged eye closure and/or gaze aversion, no or very limited touching, asynchronous posture, leaning away, and hair twirling (unless a “habit”). 
+
+Term: Eyebrow Flashes
+Definition: A sign often indicating recognition, acknowledgement, or greeting, and can signify the building of rapport.
+
+Term: Isopraxism
+Definition: The mirroring or mimicking of another's behaviour, often seen as developed rapport between two individuals.
+
+Term: Asynchronous Posture
+Definition: In contradiction to mirroring behavior or isopraxism, this is a sign of a lack of rapport where the individuals are not mirroring each other's posture.

@@ -1,0 +1,32 @@
+Term: Catphish
+Definition: An individual who creates a false online identity in the hopes of luring people into fraudulent romantic relationships.
+
+Term: Visual evidence
+Definition: Any form of proof (photos, video chats) that the person one is communicating with online matches their claimed identity.
+
+Term: Nonverbal cues
+Definition: These are signs or signals that can be interpreted to understand a person's emotions or intentions, like body language, facial expressions, etc.
+
+Term: Face-to-face meeting
+Definition: A meeting in person, preferably in a public place, used to confirm the identity of one's online partner and ensure personal safety.
+
+Term: Skype or similar service
+Definition: Video chatting platforms that can be used for visual meetings when face-to-face isn't practical.
+
+Term: Idealized characteristics
+Definition: Attributes or traits, real or imaginary, we assign to others, particularly in online relationships, often leading to a skewed perception of reality.
+
+Term: Emotional investment
+Definition: The degree of emotional attachment or involvement one has in a relationship.
+
+Term: Truth Bias
+Definition: The tendency to believe what someone says, in the absence of a reason not to. 
+
+Term: Internet dangers
+Definition: Risks associated with online interactions, such as impersonation, deception, fraud, etc.
+
+Term: Person-to-person online communication
+Definition: A form of virtual communication where individuals interact directly with each other via internet platforms.
+
+Term: Friendship toolbox
+Definition: A collection of skills, resources, and strategies used to initiate, maintain, and develop relationships.

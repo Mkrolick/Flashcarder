@@ -1,0 +1,20 @@
+Term: Emotional Investment
+Definition: A state where one invests time and effort into a particular task or negotiation which subsequently affects their behavior due to the high level of commitment.
+
+Term: Cognitive Dissonance
+Definition: A psychological conflict arising from holding two or more conflicting ideas or beliefs at the same time.
+
+Term: Catphishing
+Definition: A deceptive activity where a person creates a fake online profile to trick others into a romantic relationship, often to get personal or financial information.
+
+Term: Exposing Catphish
+Definition: To prevent being victim of catphishing, one should move the relationship into the visual world as soon as possible, and be skeptical until visual evidence proves otherwise. Advices include meeting in public places, or having a visual meeting on platforms like Skype.
+
+Term: Competing Hypotheses
+Definition: A strategy used to prevent Internet relationships from developing too quickly. This involves always assuming that one might be the victim of a catphish until visual evidence proves otherwise.
+
+Term: Truth Bias
+Definition: The inclination to believe that someone is telling the truth, often leading to an overvaluation of truthful statements.
+
+Term: Emotional Cost
+Definition: The psychological impact suffered due to an emotionally invested activity or relationship. In terms of internet relationships, it usually refers to the distress experienced from ending a relationship one is emotionally invested in.

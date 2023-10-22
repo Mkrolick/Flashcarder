@@ -1,0 +1,26 @@
+Term: Presumptive Statement 
+Definition: A technique used in a conversation or negotiation to present a fact as the truth, which can be either true or an assumed fact regardless of its veracity. Presumptive statements aim to elicit further information from the other party.
+
+Term: Elicitation 
+Definition: The process of drawing out information or a response from someone. This method might be used in negotiation to bring out valuable insights that can be used to your advantage.
+
+Term: Empathic Elicitation 
+Definition: A technique that combines empathy and elicitation to quickly build rapport and glean information from customers that they would not normally reveal under direct questioning. 
+
+Term: Empathic Presumptive 
+Definition: A type of empathic elicitation that keeps the focus of the conversation on the customer and presents a fact as the truth. The aim is to either gather more information or to have the customer correct the presumptive, thereby revealing more details.
+
+Term: Empathic Conditional 
+Definition: A conversation technique that keeps the focus on the customer while introducing a set of circumstances under which the customer would take action. It is a strategy used to elicit more details and preferences from customers. 
+
+Term: Sales Commission 
+Definition: A percentage of sales revenue that salespeople receive for the products or services they sell. In this context, the clerk received a 5% commission on sales. 
+
+Term: Managerial Approval 
+Definition: Permission or consent provided by a manager. In certain scenarios, discounts beyond a certain limit may require managerial approval for the transaction. 
+
+Term: Markup 
+Definition: The amount added to the cost price of goods to cover overheads and profit. In this context, the jewelry had a markup of 50 percent.
+
+Term: Direct Questioning 
+Definition: A method of acquiring information by asking straightforward, specific questions. It may not yield as much detailed or subtle information as techniques such as empathic elicitation.

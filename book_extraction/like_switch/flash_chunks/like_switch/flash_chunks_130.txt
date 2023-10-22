@@ -1,0 +1,17 @@
+Term: The Land of Is 
+Definition: A metaphorical place that is used to redirect a conversation away from the initial topic of inquiry in order to avoid answering a potentially incriminating question. 
+
+Term: Redirecting the Conversation 
+Definition: The act of returning the conversation to the initial topic of inquiry in response to attempts to take the conversation to the Land of Is. This forces the person being questioned to answer directly.
+
+Term: Probability of Deception 
+Definition: The likelihood that someone is lying. This can increase if a person fails to answer a direct question with a direct answer. 
+
+Term: Why Should I Believe You? Technique 
+Definition: A method used to test veracity by asking the person "Why should I believe you?". An honest person will typically respond with, "Because I am telling the truth" or a variation of this. 
+
+Term: Detecting Deception in Online Profiles 
+Definition: The process of identifying misleading information in online profiles. This involves assessing the veracity of claims made in a person's profile, with a recognition that individuals often lie about certain attributes, notably physical characteristics. 
+
+Term: Veracity Testing Techniques  
+Definition: Subtle tools to gauge the truthfulness of a person's statements, especially useful in online interactions. These techniques help identify indicators of deception.

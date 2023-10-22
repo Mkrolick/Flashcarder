@@ -1,0 +1,14 @@
+Term: Rapport 
+Definition: A friendly and understanding relationship between two or more people which can make communication and interaction easier.
+
+Term: Elicitation Approach 
+Definition: A strategy used to obtain information from a person without arousing their suspicion or making them defensive. This approach involves using elicitation devices in conversation, often instead of direct questions.
+
+Term: Elicitation Techniques 
+Definition: Tools used to encourage individuals to reveal sensitive or confidential information without direct questioning. These can prevent individuals from feeling defensive and make them more likely to share information.
+
+Term: The Human Need to Correct 
+Definition: An inherent need in people to correct others or share the correct information where inaccuracies exist. This can be exploited by using “presumptive statements”, which are possibly incorrect facts that encourage the person to correct them and thus provide information.
+
+Term: Presumptive Statements 
+Definition: Elicitation technique involving statements that could be either correct or incorrect in order to provoke a response and get correct information from an individual.

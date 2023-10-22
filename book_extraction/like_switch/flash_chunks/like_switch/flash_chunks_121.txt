@@ -1,0 +1,23 @@
+Term: Cyberfootprint
+Definition: A record of your activities and behaviors on the internet, which is not easily erased and can be used by various entities to learn more about you.
+
+Term: Digital Etiquette
+Definition: The set of guidelines that ensure safe and respectful use of technology, enhancing online experiences and forming better interpersonal relationships.
+
+Term: Smartphone Etiquette
+Definition: A subset of digital etiquette specifically dealing with the use of smartphones, ensuring respectful and safe usage in public and private spaces.
+
+Term: Smartphone Hacking
+Definition: Unauthorized access to your smartphone, potentially leading to exposure of personal information and media.
+
+Term: Sexting
+Definition: Exchanging sexually explicit messages or images via phone, which can lead to unforeseen exposure on social media platforms.
+
+Term: V/R (Virtual Reality) vs R/W (Real World) Relationships
+Definition: The balance between relationships in the virtual space and those in the real world. Over-reliance on virtual interactions over real world ones can negatively affect relationships.
+
+Term: Electronic Messages or Emails
+Definition: Digital communication that falls between text messages and traditional letters in terms of formality. They should be well-thought-out and grammatically correct, especially in professional settings.
+
+Term: Screen name
+Definition: The name you use in digital spaces, particularly in email communications, which should be carefully selected to maintain appropriateness in all settings.

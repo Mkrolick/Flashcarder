@@ -1,0 +1,11 @@
+Term: The "Well" Technique 
+Definition: This is a method used to detect deception based on a person's response to a direct yes-or-no question. If they begin their answer with "Well," there is a high probability of deception as the person is about to give an answer that they know is unexpected. The technique works with direct yes-or-no questions only and the person to whom the question is asked must be unaware of this technique to ensure its effectiveness.
+
+Term: Land of Is 
+Definition: This refers to the space between truth and deception, filled with half-truths, excuses, and suppositions. When people choose not to answer yes or no directly, they go to the Land of Is. It is a place where individuals avoid responding to direct questions by creating diversion or misdirection. This strategy redirects the focus of the conversation and potentially allows the speaker to avoid giving a clear direct answer. 
+
+Term: Evasive Answers
+Definition: These are non-direct responses to questions aimed at distorting, avoiding or equivocating rather than providing clear, direct answers. It can be an indication of deception, as people often use evasive answers when they do not want to disclose the full truth.
+
+Term: Veracity Tests
+Definition: These are methods used to assess the truthfulness of a person's statements or actions. They are not absolute proof of deception, but they can provide strong indicators that someone might be lying or stretching the truth beyond acceptable limits.

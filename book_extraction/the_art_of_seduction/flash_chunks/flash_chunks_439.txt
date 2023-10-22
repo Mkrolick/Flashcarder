@@ -1,0 +1,14 @@
+Term: The Art of Seduction
+Definition: A book written by Robert Greene, first published in 2001 by Viking Penguin, a member of Penguin Putnam Inc.
+
+Term: Penguin Group 
+Definition: The publishing company that released "The Art of Seduction". It has offices in various locations including the United States, England, Australia, Canada, India, New Zealand, and South Africa. 
+
+Term: ISBN 
+Definition: International Standard Book Number, a numeric commercial book identifier which is intended to be unique. The Art of Seduction has the ISBNs: 0-670-89192-4 (hardcover) and 0 14 20.0119 8 (paperback).
+
+Term: Copyright
+Definition: The exclusive and assignable legal right to publish, print, or sell a literary, musical, or artistic work for a certain number of years. "The Art of Seduction" is copyrighted by Robert Greene and Joost Elffers, all rights reserved.
+
+Term: Electronic Piracy 
+Definition: The unauthorized use or reproduction of someone else's copyrighted work. Using, distributing, or sharing a book without the permission of the publisher is considered electronic piracy and it is illegal.
